@@ -1,8 +1,8 @@
 <?php
 
-define('BASE_URL', '/');
+define('BASE_URL', '/archi-dep/comem-archidep-php-todo-exercise/');
 define('DB_USER', 'todolist');
-define('DB_PASS', 'chAngeMeN0w!');
+define('DB_PASS', 'test');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
